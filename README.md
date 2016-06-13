@@ -1,4 +1,4 @@
-== Intégration "Privy" ==
+# Intégration "Privy"
 
 Pour cette exercice, vous avez uniquement une maquette sans les mesures.
 
